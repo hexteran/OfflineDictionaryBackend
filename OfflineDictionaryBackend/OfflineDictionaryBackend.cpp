@@ -207,7 +207,7 @@ void process_save_command(std::vector<string> command)
 int main(int argc, const char* argv[])
 {
 	if (argc <= 1)
-		dict = new dictionary("C:\\Job\\StockSharp\\OfflineDictionaryBackend\\OfflineDictionaryBackend\\data", languages::dutch);
+		dict = new dictionary(".", languages::dutch);
 	else
 		dict = new dictionary(argv[1], languages::dutch);
 
