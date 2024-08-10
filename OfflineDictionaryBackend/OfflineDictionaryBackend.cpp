@@ -72,7 +72,7 @@ void show_word_information(word_ptr w)
 		}
 	}
 
-	i = 0;
+	i = 1;
 	if (w->examples != nullptr)
 	{
 		cout << "\nExamples:\n\n";
