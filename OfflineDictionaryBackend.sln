@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OfflineDictionaryBackend", "OfflineDictionaryBackend\OfflineDictionaryBackend.vcxproj", "{3475D04B-D58C-4AAC-82E1-6E5F55A00132}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OfflineDictionaryBackendTests", "OfflineDictionaryBackendTests\OfflineDictionaryBackendTests.vcxproj", "{02444A56-C1BF-42A3-B850-7D13674359F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Debug|x64.ActiveCfg = Debug|x64
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Debug|x64.Build.0 = Debug|x64
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Debug|x86.ActiveCfg = Debug|Win32
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Debug|x86.Build.0 = Debug|Win32
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Release|x64.ActiveCfg = Release|x64
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Release|x64.Build.0 = Release|x64
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Release|x86.ActiveCfg = Release|Win32
+		{3475D04B-D58C-4AAC-82E1-6E5F55A00132}.Release|x86.Build.0 = Release|Win32
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Debug|x64.ActiveCfg = Debug|x64
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Debug|x64.Build.0 = Debug|x64
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Debug|x86.Build.0 = Debug|Win32
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Release|x64.ActiveCfg = Release|x64
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Release|x64.Build.0 = Release|x64
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Release|x86.ActiveCfg = Release|Win32
+		{02444A56-C1BF-42A3-B850-7D13674359F4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC4AFF3-70B6-4E1D-99B6-8AD90C1C19FA}
+	EndGlobalSection
+EndGlobal

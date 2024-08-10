@@ -1,0 +1,1 @@
+testword@тестовое слово&второй перевод@test sentence number one&second test sentence&and the third one@testwordthree&testwordfour;testwordtwo@один перевод@Totally unrelated.&Absolutely.@testwordfour;testwordthree@последний перевод@This is the second one@testword;
